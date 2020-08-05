@@ -1,6 +1,6 @@
 # Ecommerce
 
-Ecommerce from scratch with PHP, JavaScript, HTML5, Bootstrap and Ajax.
+Ecommerce from scratch with PHP 7, JavaScript, HTML5, Bootstrap and Ajax.
 
 # Project
 
